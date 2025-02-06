@@ -5,4 +5,4 @@
 ## Key Features
 * Recreates instagram post with Tom and Jerry
 * Utilizes VStack, HStack, modifiers such as .padding, text such as .fontweight, and images such as .resizable
-* wish to implement interactive buttons
+* Wish to implement interactive buttons
